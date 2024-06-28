@@ -1,0 +1,24 @@
+div{
+    margin: 0px auto;
+    border-radius: 50px;
+}
+
+.pan{
+    background-color: gold;
+    height: 80px;
+    width: 1000px;
+}
+
+.salchicha{
+    background-color: red;
+    height: 100px;
+    width: 1200px;
+}
+
+#arriba{
+    border-bottom: 20px solid goldenrod;
+}
+
+#abajo{
+    border-top: 20px solid goldenrod;
+}
